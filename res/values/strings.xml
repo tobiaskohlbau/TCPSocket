@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TcpSocket</string>
+    <string name="delete">Delete</string>
+    <string name="preset">Preset</string>
+    <string name="ipAddress">TCP/IP Address</string>
+    <string name="ipPort">TCP/IP Port</string>
+    <string name="noTextReceived">No text received by server!</string>
+    <string name="wrongAddress">Not a valid server address!</string>
+    <string name="wrongPort">Not a valid server port!</string>
+    <string name="connectionFailed">Connection failed!</string>
+    <string name="connectionSuccessed">Connection successed!</string>
+    <string name="connectionClosedByOpposite">Connection was closed by opposite!</string>
+    <string name="connectionClosedBySelf">Connection was closed by self!</string>
+    <string name="serviceName">TcpSocket-Service</string>
+</resources>

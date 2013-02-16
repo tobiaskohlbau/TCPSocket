@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TcpSocket</string>
+    <string name="delete">Löschen</string>
+    <string name="preset">Vorauswahl</string>
+    <string name="ipAddress">TCP/IP Adresse</string>
+    <string name="ipPort">TCP/IP Port</string>
+    <string name="noTextReceived">Es wurde kein Text vom Server empfangen!</string>
+    <string name="wrongAddress">Keine gültige Serveradresse</string>
+    <string name="wrongPort">Kein gültiger Serverport</string>
+    <string name="connectionFailed">Verbindung fehlgeschlagen!</string>
+    <string name="connectionSuccessed">Verbindung hergestellt!</string>
+</resources>
